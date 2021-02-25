@@ -3,6 +3,8 @@ MVC-Calculator is a Java example using the MVC design pattern to simulate a simp
 
 ![](doc/CalculatorApp.png)
 
+Be carefulll  multiplication do not work in this app. 
+
 # Building
 Use your favorite Java IDE to edit, build, run and test. Or do it on the command line with gradle. 
 ```
